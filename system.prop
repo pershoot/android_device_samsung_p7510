@@ -1,3 +1,4 @@
 #
 # system.prop for p7510
 #
+ro.cwm.prefer_tar=true
